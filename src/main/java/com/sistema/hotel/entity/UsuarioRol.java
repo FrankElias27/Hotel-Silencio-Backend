@@ -1,4 +1,4 @@
-package com.sistema.hotel.entidades;
+package com.sistema.hotel.entity;
 
 
 import jakarta.persistence.*;
