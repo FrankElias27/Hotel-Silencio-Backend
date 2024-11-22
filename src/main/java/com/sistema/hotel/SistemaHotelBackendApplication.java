@@ -24,7 +24,7 @@ public class SistemaHotelBackendApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		Usuario usuario = new Usuario();
+		/*Usuario usuario = new Usuario();
 		usuario.setNombre("Administrador");
 		usuario.setApellido("Sistema");
 		usuario.setUsername("Admin");
@@ -43,7 +43,7 @@ public class SistemaHotelBackendApplication implements CommandLineRunner {
 		usuarioRoles.add(usuarioRol);
 
 		Usuario usuarioGuardado = usuarioService.guardarUsuario(usuario,usuarioRoles);
-		System.out.println(usuarioGuardado.getUsername());
+		System.out.println(usuarioGuardado.getUsername());*/
 
 	}
 }
